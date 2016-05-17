@@ -1,1 +1,3 @@
-When a git repository is initialized, it creates the .git folder than includes the needed metadata requried for the git to track the changes in the files.
+When a git repository is initialized, it creates the .git folder than includes the needed metadata required for the git to track the changes in the files.
+
+the staging area is where all the changes are made before committing them to the repository.
