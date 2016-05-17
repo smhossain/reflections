@@ -1,0 +1,1 @@
+When a git repository is initialized, it creates the .git folder than includes the needed metadata requried for the git to track the changes in the files.

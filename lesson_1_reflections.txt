@@ -1,0 +1,8 @@
+How do i edit this file
+
+Manually committing is a better choice when working on logical things like programming while autosaving might be good for writing a document file.
+
+I can easily edit my files without worrying of introducing a bug.
+
+Why should I use git?
+Well, i’m planning to start iOS programming. That’s why.
