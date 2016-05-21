@@ -9,3 +9,5 @@ Branches help in making different versions of a program or adding a feature that
 the diagrams help in knowing the branches and how the commits are branched in different branches.
 
 Merging two branches results in merging whatever changes made to the different branches into one file. The diagram shows where the branch started and where did it go and when it was merged with the master.
+
+Automatically merging is good when there are no big changes in the code. Manual merging is better because different versions of a code might lead to different results. So, definitely someone has to clear the conflict. 
