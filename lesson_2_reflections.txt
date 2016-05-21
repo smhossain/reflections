@@ -7,3 +7,5 @@ The staging area is still a mystery for me!!! I should exactly know what is itâ€
 Branches help in making different versions of a program or adding a feature that you are not sure about yet. Or making a different language of your program etc.
 
 the diagrams help in knowing the branches and how the commits are branched in different branches.
+
+Merging two branches results in merging whatever changes made to the different branches into one file. The diagram shows where the branch started and where did it go and when it was merged with the master.
